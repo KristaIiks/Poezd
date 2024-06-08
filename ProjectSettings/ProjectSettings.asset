@@ -137,7 +137,14 @@ PlayerSettings:
   vulkanEnableCommandBufferRecycling: 1
   loadStoreDebugModeEnabled: 0
   bundleVersion: 0.1.0
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: -6465566751694194690, guid: 59b526d69ac994c4bad0edbac50b6685, type: 3}
+  - {fileID: -6465566751694194690, guid: b04305346960a4d43b15392fde8e26e5, type: 3}
+  - {fileID: -6465566751694194690, guid: 9687c08fa2bba864ba8950c7a039274c, type: 3}
+  - {fileID: -6465566751694194690, guid: 21d7dc78afae6da45a145e73098e628a, type: 3}
+  - {fileID: -6465566751694194690, guid: dd5346f32d7fd23488eda10b183acc31, type: 3}
+  - {fileID: -6605780828417045911, guid: aaa3917a38baf6f44b2837ccd3a74ec4, type: 2}
+  - {fileID: 2063911676719016018, guid: f24cef025fb7bed4cbc22880c8e5412e, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -257,7 +264,7 @@ PlayerSettings:
   useCustomGradlePropertiesTemplate: 0
   useCustomGradleSettingsTemplate: 0
   useCustomProguardFile: 0
-  AndroidTargetArchitectures: 1
+  AndroidTargetArchitectures: 2
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
@@ -808,7 +815,8 @@ PlayerSettings:
     Windows Store Apps: USE_INPUT_SYSTEM_POSE_CONTROL;USE_INPUT_SYSTEM_POSE_CONTROL
   additionalCompilerArguments: {}
   platformArchitecture: {}
-  scriptingBackend: {}
+  scriptingBackend:
+    Android: 1
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
   managedStrippingLevel:

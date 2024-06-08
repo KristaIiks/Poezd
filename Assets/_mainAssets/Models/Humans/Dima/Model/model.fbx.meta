@@ -23,7 +23,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wolf3D_Hair.001
-    second: {fileID: 2100000, guid: 1fee0757878766540830dfdd208cd1a2, type: 2}
+    second: {fileID: 2100000, guid: 98ab122ec97201c4d900db7041f1825d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -48,72 +48,72 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Wolf3D_Teeth.001
-    second: {fileID: 2100000, guid: 6273a582a0ab3a4428b77db0ed5b683d, type: 2}
+    second: {fileID: 2100000, guid: 98ab122ec97201c4d900db7041f1825d, type: 2}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Group 34
-    second: {fileID: 2800000, guid: 9c2ab03f745c87c4b904649e29d98601, type: 3}
+    second: {fileID: 2800000, guid: 605bf9a117e6b9b4e97cfe52307d4dd2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Wolf3D_Teeth
-    second: {fileID: 2800000, guid: 2b1a4729e2b76624780ae53a270cf03c, type: 3}
+    second: {fileID: 2800000, guid: 77c96bed8e1af8f4ab7819dcbb78a801, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: baseColor
-    second: {fileID: 2800000, guid: fcb8fb65ee2c0c3499c248129141729f, type: 3}
+    second: {fileID: 2800000, guid: 20c801a0bc61ed44ea44fc0482c31412, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: baseColor-1
-    second: {fileID: 2800000, guid: f11117983fba60645b8ba4f117ff7d1b, type: 3}
+    second: {fileID: 2800000, guid: e79fd18343c0ce84a8050f517a1040cf, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: baseColor-2
-    second: {fileID: 2800000, guid: 5e891bf30be904b4ab83b997dabf720b, type: 3}
+    second: {fileID: 2800000, guid: 0de1364b9d36b5440b493903b079235f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: baseColor-3
-    second: {fileID: 2800000, guid: 21f0e0bf0983e4b41b2f938f38ebdc46, type: 3}
+    second: {fileID: 2800000, guid: 88ee0fd886af66341a37966cb9af4043, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: boots-sport-03-blackwine-C
-    second: {fileID: 2800000, guid: c51a23b56381a6e4b9e6082091d36e99, type: 3}
+    second: {fileID: 2800000, guid: 948d38c302d3f3e4180d9f149df2aca0, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: boots-sport-03-blackwine-N
-    second: {fileID: 2800000, guid: a9cccd96c6bf8ce40af8512ce7701a16, type: 3}
+    second: {fileID: 2800000, guid: 8d2a7dbbd38f9a643ae13620ce5c5cb2, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: hair-01-N
-    second: {fileID: 2800000, guid: 6a8667e0b588c9a40a82c86bc8c9c9da, type: 3}
+    second: {fileID: 2800000, guid: d588ac7f24e6f814e9314e79ab25c501, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: jacket-puffed-05-brown-N
-    second: {fileID: 2800000, guid: c1947f650003aed4e9bd9110265874f5, type: 3}
+    second: {fileID: 2800000, guid: ee5be3c21c005814e9a7bca33f30e177, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: "jacket-puffed-05-brown-\u0421"
-    second: {fileID: 2800000, guid: dd7fd1d2f121cc64b899c361061a3294, type: 3}
+    second: {fileID: 2800000, guid: 0b1e60d27cd9f8a488b2fe5c60b7d43f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pants-adventure-01-color03-C
-    second: {fileID: 2800000, guid: 44d1672bf69e5274d864a5906e052b6f, type: 3}
+    second: {fileID: 2800000, guid: ee2e6dd38087f2449a4252171ffd1d4d, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pants-adventure-01-color03-N
-    second: {fileID: 2800000, guid: 04750693d2884d743affc4ea606ae119, type: 3}
+    second: {fileID: 2800000, guid: 73cbac1ab11b13d4a82d3b119fc952f7, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
